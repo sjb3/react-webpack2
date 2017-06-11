@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/sjb3/react-webpack2#readme",
   "dependencies": {
+    "axios": "^0.16.2",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
@@ -35,7 +36,9 @@
     "css-loader": "^0.28.4",
     "html-webpack-plugin": "^2.28.0",
     "normalize.css": "^7.0.0",
+    "prop-types": "^15.5.10",
     "style-loader": "^0.18.2",
+    "styled-components": "^2.0.1",
     "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5"
   }
